@@ -1,7 +1,7 @@
 import Chai from "./chai";
 
 function App() {
-  const username = "chai aur code";
+  // const username = "chai aur code";
 
   return (
     <>
