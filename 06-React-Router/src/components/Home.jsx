@@ -11,7 +11,7 @@ export default function Home() {
         >
           ENTHUSIAST
         </span>{" "}
-        Web Developer
+        Front End Web Developer
       </h1>
       <p>Prapti Bishen</p>
     </div>
